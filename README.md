@@ -3,6 +3,9 @@
 - 🌱 I’m currently learning HTML, CSS, JS, Python and C#
 - 💞️ I’m looking to collaborate on anything you can help me <3
 - 📫 How to reach me:
+
         mail = sergicurero@gmail.com
+        
         instagram = @seergicureero
+        
         twitter = @seergicureero
