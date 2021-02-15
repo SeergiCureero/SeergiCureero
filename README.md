@@ -6,6 +6,6 @@
 
         mail = sergicurero@gmail.com
         
-        instagram = @seergicureero
+        instagram = instagram.com/seergicureero
         
-        twitter = @seergicureero
+        twitter = twitter.com/seergicureero
