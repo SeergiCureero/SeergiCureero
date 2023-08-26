@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src="https://camo.githubusercontent.com/5cf7a0b51cb538d0eb156f6cea668fefc8911737e061f6b4386a5d0f13aeb996/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d73696c6c79636b2673686f775f69636f6e733d7472756526686964653d6973737565732c636f6e7472696273267469746c655f636f6c6f723d66616363313526746578745f636f6c6f723d6666666666662669636f6e5f636f6c6f723d6661636331352662675f636f6c6f723d31633139313726686964655f626f726465723d747275652673686f775f69636f6e733d74727565" alt="seergicurero's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=seergicureero&amp;show_icons=true&amp;hide=issues,contribs&amp;title_color=facc15&amp;text_color=ffffff&amp;icon_color=facc15&amp;bg_color=1c1917&amp;hide_border=true&amp;show_icons=true" style="max-width: 100%;">
 
 <!--
 **SeergiCureero/SeergiCureero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
