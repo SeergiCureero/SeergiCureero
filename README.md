@@ -10,11 +10,15 @@
   <li>German: Basic Level</li>
 </ul>
 <!--fer grafica per mostrar el nivell de cada llengua-->
-
-<p>📫 How to reach me:</p> 
-<a href="www.instagram.com/seergicureero" target="_blank">Instagram</a>
-<a href="mailto:sergicurero@gmail.com" target="_blank">e-mail</a>
 <p>⚡ Fun fact: I'm a big fan of maps and languages.</p>
+<p>📫 How to reach me:</p> 
+<ul>
+  <li> <a href="www.instagram.com/seergicureero" target="_blank">Instagram</a> </li>
+  <li> <a href="mailto:sergicurero@gmail.com" target="_blank">e-mail</a> </li>
+</ul>
+
+
+
 
 <!--
 **SeergiCureero/SeergiCureero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
