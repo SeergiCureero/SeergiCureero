@@ -1,7 +1,7 @@
 ### Hi there 👋
 <p>🔭 I’m currently working on my personal website</p>
 <p>🌱 I’m currently studying Automation and Industrial Robotics at Escola d'Aprenents SEAT.</p>
-<p>🗣 Languages I speak:</p>
+<p>🗣 I speak:</p>
 <ul>
   <li>Catalan: Native</li>
   <li>Spanish: Native</li>
