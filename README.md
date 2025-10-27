@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>🔭 I’m currently working on my personal website</p>
+<p>🔭 I’m currently doing an apprenticeship in the IT department at SEAT</p>
 <p>🌱 I’m currently studying Automation and Industrial Robotics at Escola d'Aprenents SEAT.</p>
 <p>🗣 I speak:</p>
 <ul>
@@ -13,24 +13,9 @@
 <p>⚡ Fun fact: I'm a big fan of maps and languages.</p>
 <p>📫 How to reach me:</p> 
 <ul>
-  <li> <a href="www.instagram.com/seergicureero" target="_blank">Instagram</a> </li>
+  <li> <a href="www.linkedin.com/sergicurero" target="_blank">LinkedIn</a> </li>
   <li> <a href="mailto:sergicurero@gmail.com" target="_blank">e-mail</a> </li>
+  <li> <a href="www.instagram.com/seergicureero" target="_blank">Instagram</a> </li>
 </ul>
 
 
-
-
-<!--
-**SeergiCureero/SeergiCureero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
