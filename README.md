@@ -1,5 +1,5 @@
 ### Hi there 👋
-<p>🔭 I’m currently doing an apprenticeship in the IT department at SEAT</p>
+<p>🔭 I’m currently working in the IT department at SEAT</p>
 <p>🌱 I’m currently studying Automation and Industrial Robotics at Escola d'Aprenents SEAT.</p>
 <p>🗣 I speak:</p>
 <ul>
