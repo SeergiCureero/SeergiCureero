@@ -13,6 +13,7 @@
 <p>⚡ Fun fact: I'm a big fan of maps and languages.</p>
 <p>📫 How to reach me:</p> 
 <ul>
+  <li> <a href="www.agora-net.eu/profile/regi" target="_blank">Agora</a> </li>
   <li> <a href="www.linkedin.com/sergicurero" target="_blank">LinkedIn</a> </li>
   <li> <a href="mailto:sergicurero@gmail.com" target="_blank">e-mail</a> </li>
   <li> <a href="www.instagram.com/seergicureero" target="_blank">Instagram</a> </li>
